@@ -148,7 +148,7 @@ okta {
 // postgres configures PostgreSQL as the app database.
 postgres {
   dbname   = "db"
-  host     = "localhost"
+  host     = "postgres"
   password = "postgres"
   port     = 5432
   user     = "postgres"
